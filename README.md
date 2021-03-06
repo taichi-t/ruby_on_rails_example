@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+rails generate scaffold Entry meal_type:string calories:interger proteins:integer carbohydrates;integer fats:integer
 
-Things you may want to cover:
+## `rails generate scaffold`
 
-* Ruby version
+is a quick way to generate a ton of files for its models, controllers and views.
+ex) rails generate scaffold {model name} {column1 name}:{data type} {column2 name}:{data type} …
 
-* System dependencies
+## resources
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.youtube.com/watch?v=B3Fbujmgo60&list=LL&index=6&t=1718s
