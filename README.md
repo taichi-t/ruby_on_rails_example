@@ -4,7 +4,7 @@ rails generate scaffold Entry meal_type:string calories:interger proteins:intege
 
 ## `rails generate scaffold`
 
-is a quick way to generate a ton of files for its models, controllers and views.
+is a quick way to generate a ton of files for models, controllers and views.
 ex) rails generate scaffold {model name} {column1 name}:{data type} {column2 name}:{data type} …
 
 ## resources
