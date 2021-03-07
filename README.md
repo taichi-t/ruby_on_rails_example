@@ -1,6 +1,4 @@
-# README
-
-rails generate scaffold Entry meal_type:string calories:interger proteins:integer carbohydrates;integer fats:integer
+# Leaving study logs here.
 
 ## `rails generate scaffold`
 
