@@ -2,7 +2,7 @@
 
 ## `rails generate scaffold`
 
-is a quick way to generate a ton of files for models, controllers and views.
+is a quick way to generate a ton of files for models, controllers and views.<br/>
 ex) rails generate scaffold {model name} {column1 name}:{data type} {column2 name}:{data type} …
 
 ## `rails db:migrate`
@@ -11,9 +11,12 @@ After creating a table, must do it so that getting rid of an error that says an 
 
 ## Typing /rails/info/routes in a serch bar show all routes available.
 
-## What gem is
+just do "local:3000/rails/info/routes"
 
-to install dependencies, like a yarn or npm
+## What is bundle
+
+to install dependencies, like a yarn or npm<br/>
+ex) bundle add twitter
 
 ## resources
 
