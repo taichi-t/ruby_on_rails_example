@@ -11,7 +11,7 @@ After creating a table, must do it so that getting rid of an error that says an 
 
 ## Typing /rails/info/routes in a serch bar show all routes available.
 
-just do "local:3000/rails/info/routes"
+Just do "local:3000/rails/info/routes"
 
 ## What is bundle
 
@@ -20,8 +20,8 @@ ex) bundle add twitter
 
 ## Install RubyGems
 
-search here
-[Find, install, and publish RubyGems]("https://rubygems.org/")
+Search here
+[Find, install, and publish RubyGems](https://rubygems.org/)
 
 ## resources
 
