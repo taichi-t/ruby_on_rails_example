@@ -18,9 +18,10 @@ just do "local:3000/rails/info/routes"
 to install dependencies, like a yarn or npm<br/>
 ex) bundle add twitter
 
-## [Find, install, and publish RubyGems]("https://rubygems.org/")
+## Install RubyGems
 
-to search any gem
+search here
+[Find, install, and publish RubyGems]("https://rubygems.org/")
 
 ## resources
 
