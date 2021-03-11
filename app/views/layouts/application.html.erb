@@ -11,6 +11,15 @@
   </head>
 
   <body>
+  <%= render "shared/header" %>
+  <%if notice.present?%>
+  <div class="notificatiion is-link is-light"><%= notice %></div>
+  <% end %>
+
+  <%if alert.present?%>
+  <div class="notificatiion is-danger is-light"><%= notice %></div>
+  <% end %>
+  <div class="container">
     <%= yield %>
   </body>
 </html>
